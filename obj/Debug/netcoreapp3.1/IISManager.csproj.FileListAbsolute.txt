@@ -1,0 +1,10 @@
+D:\адванта\github\Internal\Modules\IISManager\obj\Debug\netcoreapp3.1\IISManager.AssemblyInfoInputs.cache
+D:\адванта\github\Internal\Modules\IISManager\obj\Debug\netcoreapp3.1\IISManager.AssemblyInfo.cs
+D:\адванта\github\Internal\Modules\IISManager\obj\Debug\netcoreapp3.1\IISManager.csproj.CoreCompileInputs.cache
+D:\адванта\github\Internal\Modules\IISManager\bin\Debug\netcoreapp3.1\IISManager.deps.json
+D:\адванта\github\Internal\Modules\IISManager\bin\Debug\netcoreapp3.1\IISManager.dll
+D:\адванта\github\Internal\Modules\IISManager\bin\Debug\netcoreapp3.1\IISManager.pdb
+D:\адванта\github\Internal\Modules\IISManager\obj\Debug\netcoreapp3.1\IISManager.dll
+D:\адванта\github\Internal\Modules\IISManager\obj\Debug\netcoreapp3.1\IISManager.pdb
+D:\адванта\github\Internal\Modules\IISManager\obj\Debug\netcoreapp3.1\IISManager.csproj.AssemblyReference.cache
+D:\адванта\github\Internal\Modules\IISManager\obj\Debug\netcoreapp3.1\IISManager.GeneratedMSBuildEditorConfig.editorconfig
